@@ -1,0 +1,1 @@
+usr/bin/productsign --sign "Developer ID Installer: Watchman Monitoring, Inc" /Users/Shared/Development/watchmanmonitoring-recipes/testpackage/build/MonitoringClient-AutoPkg-Test.pkg /Users/Shared/Development/watchmanmonitoring-recipes/testpackage/MonitoringClient-AutoPkg-Test.pkg 
